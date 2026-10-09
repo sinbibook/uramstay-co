@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-08-31T03:00:35.941873272Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T07:17:53.180831497Z",
     "templateType": "trip_d",
     "propertyId": "774ffa8e-d407-4221-8609-5aa37c5be96a",
     "homepageId": "84c272e8-e68d-4eb9-aa1c-f419fcd4dbdd"
@@ -29,6 +29,9 @@
     "domain": "uramstay.co.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1614214953",
     "ybsId": "74015",
+    "tripPropertyId": "6131",
+    "partnerType": "sales_agency",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -373,8 +376,8 @@
       {
         "thumbnail": [
           {
-            "id": "aa5d6537-022c-4df2-a289-7880d9369147",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/tqSXbfBTLp1l.jpg",
+            "id": "f94cdc67-aea7-42bc-8585-366ce9d04edd",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/HJcoL2izOmd1.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -383,81 +386,9 @@
         ],
         "exterior": [
           {
-            "id": "4c900185-ea8d-4851-a5e7-253909d68a1e",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/2VPO7e0fgFKi.jpg",
+            "id": "aa5d6537-022c-4df2-a289-7880d9369147",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/tqSXbfBTLp1l.jpg",
             "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "5e5fc4d7-ba61-4195-9c53-a1c8a13b04e9",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/BZ9aDTqV1nvM.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "d0ef82a6-78be-476e-ad71-1234aed955be",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/uTiBtHx0YqF4.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "6f1964cd-a310-4904-9104-dc1d2c10aa79",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/nh4eum2qsj3o.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "f94cdc67-aea7-42bc-8585-366ce9d04edd",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/HJcoL2izOmd1.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "aa6a88ae-b0ad-412c-a2a1-bca2e859b69d",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/HcekF0Mu5ymO.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "6c30a851-8998-47b0-8afa-6d8d91029fd9",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/LMAYyns3NWIV.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "6b804767-3998-4870-b4a7-59a4121913e7",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/SfznPvwgAJ5h.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "7f229141-210a-4d01-a9f3-ec1d47586a22",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/3okDHClFd7Sa.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "96685e81-09b6-4a7d-a5cb-1bec37bbc1cc",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/n8SE0huVADrB.jpg",
-            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -465,7 +396,87 @@
           {
             "id": "e7004687-f1ed-451a-8bf6-e16ec0ad0c9e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/8TWufs2UVHob.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4c900185-ea8d-4851-a5e7-253909d68a1e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/2VPO7e0fgFKi.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6088a954-e853-4724-974b-e91f50921c4b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/RFyEmhArSxtX.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5e5fc4d7-ba61-4195-9c53-a1c8a13b04e9",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/BZ9aDTqV1nvM.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d0ef82a6-78be-476e-ad71-1234aed955be",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/uTiBtHx0YqF4.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "aa6a88ae-b0ad-412c-a2a1-bca2e859b69d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/HcekF0Mu5ymO.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6f1964cd-a310-4904-9104-dc1d2c10aa79",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/nh4eum2qsj3o.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6c30a851-8998-47b0-8afa-6d8d91029fd9",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/LMAYyns3NWIV.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6b804767-3998-4870-b4a7-59a4121913e7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/SfznPvwgAJ5h.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7f229141-210a-4d01-a9f3-ec1d47586a22",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/3okDHClFd7Sa.jpg",
             "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "96685e81-09b6-4a7d-a5cb-1bec37bbc1cc",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/n8SE0huVADrB.jpg",
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -487,17 +498,9 @@
             "blockId": null
           },
           {
-            "id": "6088a954-e853-4724-974b-e91f50921c4b",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/RFyEmhArSxtX.jpg",
-            "sortOrder": 16,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "b81bd524-4434-4b90-be1f-30f2c9f3d1c5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/ycrDQ9Ez54Hh.jpg",
-            "sortOrder": 17,
+            "sortOrder": 16,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -505,7 +508,7 @@
           {
             "id": "d121e0a0-e952-4a16-ac6e-455b84260d46",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/EKMecxN35UZA.jpg",
-            "sortOrder": 18,
+            "sortOrder": 17,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -513,7 +516,7 @@
           {
             "id": "60317919-fd03-40f8-9ed0-b73c1267729c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2024/09/05/FqadWCApub8Y.jpg",
-            "sortOrder": 19,
+            "sortOrder": 18,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1347,6 +1350,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
